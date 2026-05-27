@@ -50,6 +50,20 @@ TVK established measurable statewide presence and recorded strong performances a
 
 ---
 
+## Data Sources
+
+- Election Commission of India (ECI)
+- Publicly available Tamil Nadu Assembly election datasets
+
+## Reproduction Steps
+
+1. Load election datasets into Python
+2. Clean and prepare constituency-level data using Pandas
+3. Perform regional and vote-share analysis
+4. Create exploratory visualizations using Plotly
+5. Build storytelling dashboards in Power BI
+6. Export visuals and presentation assets
+
 ## Dashboard Preview
 
 ### Regional Political Landscape
