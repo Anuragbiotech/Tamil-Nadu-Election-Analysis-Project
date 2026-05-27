@@ -52,12 +52,12 @@ TVK established measurable statewide presence and recorded strong performances a
 
 ## Dashboard Preview
 
-![Regional Analysis](dashboard_screenshots/1 Regional Shifts.png)
+![Regional Analysis](dashboard_screenshots/1_Regional Shifts.png)
 
-![Constituency Analysis](dashboard_screenshots/2 Constituency Shifts.png)
+![Constituency Analysis](dashboard_screenshots/2_Constituency Shifts.png)
 
 
-![Vote Share Analysis](dashboard_screenshots/3 Vote Share Dynamics.png)
+![Vote Share Analysis](dashboard_screenshots/3_Vote Share Dynamics.png)
 
 
 ---
