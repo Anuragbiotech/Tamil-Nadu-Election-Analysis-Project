@@ -52,10 +52,13 @@ TVK established measurable statewide presence and recorded strong performances a
 
 ## Dashboard Preview
 
+### Regional Political Landscape
 ![Regional Analysis](dashboard_screenshots/1_regional_shifts.png)
 
+### Constituency Shifts
 ![Constituency Analysis](dashboard_screenshots/2_constituency_shifts.png)
 
+### Vote Share Dynamics
 ![Vote Share Analysis](dashboard_screenshots/3_vote_share_dynamics.png)
 
 
@@ -65,12 +68,29 @@ TVK established measurable statewide presence and recorded strong performances a
 
 (Add PPT/PDF/video links here later)
 
-[TN_Election_Storytelling_Deck.pptx](https://github.com/user-attachments/files/28312522/TN_Election_Storytelling_Deck.pptx)
+## Project Presentation
 
-[TN_Election_Storytelling_Deck.pdf](https://github.com/user-attachments/files/28312521/TN_Election_Storytelling_Deck.pdf)
+- [Presentation Deck (PPT)](presentation/TN_Election_Storytelling_Deck.pptx)
+- [Presentation Deck (PDF)](presentation/TN_Election_Storytelling_Deck.pdf)
 
 ---
+
+## Repository Structure
+
+```text
+Tamil-Nadu-Election-Analysis-Project/
+│
+├── notebooks/
+├── dashboard_screenshots/
+├── presentations/
+├── README.md
+└── LICENSE
+```
 
 ## Conclusion
 
 The 2026 Tamil Nadu election reflected a transition toward a more competitive and fragmented political landscape, accompanied by significant constituency-level volatility and the emergence of TVK as a statewide electoral force.
+
+## Author
+
+Anurag Gupta
