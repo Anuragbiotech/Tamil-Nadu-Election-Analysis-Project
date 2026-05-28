@@ -80,10 +80,6 @@ TVK established measurable statewide presence and recorded strong performances a
 
 ## Project Presentation
 
-(Add PPT/PDF/video links here later)
-
-## Project Presentation
-
 - [Presentation Deck (PPT)](presentation/TN_Election_Storytelling_Deck.pptx)
 - [Presentation Deck (PDF)](presentation/TN_Election_Storytelling_Deck.pdf)
 
