@@ -91,7 +91,7 @@ TVK established measurable statewide presence and recorded strong performances a
 
 ## Interactive Dashboard
 
-[View Interactive Power BI Dashboard](<iframe title="TamilNadu_2026_Election_Insights" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWJhOWQ5MmUtM2Q4OS00MTQxLThlZTktYTljZmZmMzU4YzYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=6e009399b110941fbeef" frameborder="0" allowFullScreen="true"></iframe>)
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWJhOWQ5MmUtM2Q4OS00MTQxLThlZTktYTljZmZmMzU4YzYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=6e009399b110941fbeef)
 
 ## Repository Structure
 
